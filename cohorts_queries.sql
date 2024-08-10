@@ -1,6 +1,8 @@
 -- Ссылка на датасет: https://www.kaggle.com/datasets/carrie1/ecommerce-data
 -- Ссылка на дашборд: https://datalens.yandex/k9jpaatejaty7
 
+-- PostgreSQL 15.7, compiled by Visual C++ build 1939, 64-bit
+
 -- подготовка таблицы для импорта данных из csv
 create table e_commerce_data_raw
 (
